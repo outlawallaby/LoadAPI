@@ -1,0 +1,20 @@
+# Compiled Sourse
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Visual Studio
+.vs/
+# Visual Studio Code
+.VS Code
+# Build results 
+[Dd]ebud/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
