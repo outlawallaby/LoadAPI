@@ -26,7 +26,7 @@ namespace LoadAPI
         {
             services.AddDbContext<LoadContext>(opt => opt.UseNpgsql(Configuration.GetConnectionString("PostgreSqlConnection")));
             services.AddControllers();
-            services.AddScoped<ILoadAPIRepo, MockLoadAPIRepo>();
+            services.AddScoped<ILoadAPIRepo, SqlLoadAPIRepo>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
