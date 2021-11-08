@@ -21,3 +21,11 @@ D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\obj\Debug\net5.0\LoadAPI.dl
 D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\obj\Debug\net5.0\ref\LoadAPI.dll
 D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\obj\Debug\net5.0\LoadAPI.pdb
 D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\obj\Debug\net5.0\LoadAPI.genruntimeconfig.cache
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Npgsql.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
