@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj": {}
+    "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj": {}
   },
   "projects": {
-    "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj": {
+    "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj",
+        "projectUniqueName": "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj",
         "projectName": "LoadAPI",
-        "projectPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj",
+        "projectPath": "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\obj\\",
+        "outputPath": "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.1, )"
@@ -75,14 +79,14 @@
         }
       }
     },
-    "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj": {
+    "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj",
+        "projectUniqueName": "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj",
         "projectName": "LoadAPI.Tests",
-        "projectPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj",
+        "projectPath": "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\LoadAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\obj\\",
+        "outputPath": "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\test\\LoadAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +103,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj": {
-                "projectPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj"
+              "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj": {
+                "projectPath": "d:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj"
               }
             }
           }

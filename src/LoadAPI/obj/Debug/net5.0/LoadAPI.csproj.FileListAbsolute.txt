@@ -29,3 +29,5 @@ D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.
 D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Npgsql.dll
 D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\WIUT\Level_6\Cloud\CW\LoadAPISolution\src\LoadAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
