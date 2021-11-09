@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj": {}
+    "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadApiSolution\\src\\LoadAPI\\LoadAPI.csproj": {}
   },
   "projects": {
-    "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj": {
+    "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadApiSolution\\src\\LoadAPI\\LoadAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj",
+        "projectUniqueName": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadApiSolution\\src\\LoadAPI\\LoadAPI.csproj",
         "projectName": "LoadAPI",
-        "projectPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\LoadAPI.csproj",
+        "projectPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadApiSolution\\src\\LoadAPI\\LoadAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadAPISolution\\src\\LoadAPI\\obj\\",
+        "outputPath": "D:\\WIUT\\Level_6\\Cloud\\CW\\LoadApiSolution\\src\\LoadAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
