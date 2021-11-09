@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using LoadAPI.Models;
 using System.Linq;
+using System;
 
 namespace LoadAPI.Data
 {
@@ -13,12 +14,20 @@ namespace LoadAPI.Data
         }
         public void CreateLoad(Load load)
         {
-            throw new System.NotImplementedException();
+            if(load==null)
+            {
+                throw new ArgumentNullException(nameof(load));
+            }
+            _context.LoadItems.Add(load);
         }
 
         public void DeleteLoad(Load load)
         {
-            throw new System.NotImplementedException();
+            if(load ==null)
+            {
+                throw new ArgumentNullException(nameof(load));
+            }
+            _context.LoadItems.Remove(load);
         }
 
         public IEnumerable<Load> GetAllLoads()
@@ -33,12 +42,12 @@ namespace LoadAPI.Data
 
         public bool SaveChanges()
         {
-            throw new System.NotImplementedException();
+            return (_context.SaveChanges() >= 0);
         }
 
         public void UpdateLoad(Load load)
         {
-            throw new System.NotImplementedException();
+           
         }
     }
 }

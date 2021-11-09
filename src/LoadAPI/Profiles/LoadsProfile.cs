@@ -10,6 +10,8 @@ namespace LoadAPI.Profiles
         {
             //Sourse -> Target
             CreateMap<Load, LoadReadDto>();
+            CreateMap<LoadCreateDto, Load>();
+            CreateMap<LoadUpdateDto,Load>();
         }
     }
 }
